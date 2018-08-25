@@ -1,0 +1,33 @@
+a
+{
+    color: red;
+    font-family: fantasy;
+    font-size: 50px;
+    font-feature-settings: "aalt";
+    opacity:0.5 ;
+}
+/*body{
+  background-image: url(./image/one.jpg);
+
+}*/
+ul{
+ color: blue;
+}
+.header{
+    color:green;
+    width:100%;
+}
+.mid1{
+    background-color: red;
+    float:left;
+
+}
+.mid2{
+    color:blue;
+    width:60%;
+    margin:0px 0px 0px 10px;
+}
+.footer{
+    color:yellow;
+
+}
